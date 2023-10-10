@@ -5,7 +5,7 @@
 using namespace std;
 
 enum _game {
-    _janken,
+    _janken = 1,
     _kazuate,
     _end
 };
