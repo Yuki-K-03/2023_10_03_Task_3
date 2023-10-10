@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ctime>
+#include "janken.h"
 using namespace std;
 
 enum _rps {

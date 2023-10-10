@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ctime>
+#include "kazuate.h"
 using namespace std;
 
 void Kazuate() {
